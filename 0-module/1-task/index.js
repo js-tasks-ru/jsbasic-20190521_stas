@@ -1,3 +1,4 @@
+"use strict";
 /**
  * Power
  * @param {number} m base
@@ -5,5 +6,5 @@
  * @returns {number}
  */
 function sum (m, n) {
-
+    return (m + n);
 }
